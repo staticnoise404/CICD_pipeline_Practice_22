@@ -3,7 +3,7 @@ name: Terraform CI
 on:
   push:
     branches:
-      - new_branch_22
+      - master_branch
 
 jobs:
   terraform:
